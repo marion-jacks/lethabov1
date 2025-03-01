@@ -55,13 +55,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Timnasa1", numero: "255784766591" },
-      { nom: "᚛timnasa2᚜", numero: "255756469954" },
-      { nom: "Linknumber", numero: "https://wa.me/message/JPGLOZDIQGRPD1" },
+      { nom: "lethabo1", numero: "254796087764" },
+      { nom: "᚛lethabo᚜", numero: "254704769281" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO TIMNASA-TMD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO LETHABO MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,7 +94,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING TIMNASA-TMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@ibrahimaitech] \n\n\n*Created By 𝐓𝐈𝐌𝐍𝐀𝐒𝐀.𝐃𝐄𝐓𝐄𝐒𝐓𝐄𝐃") 
+  repondre("THANK YOU FOR CHOOSING LETHABO MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@ibrahimaitech] \n\n\n*Created By 𝐓𝐈𝐌𝐍𝐀𝐒𝐀.𝐃𝐄𝐓𝐄𝐒𝐓𝐄𝐃") 
   await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING WHATSAPP.BOT DETESTED TIMNASA,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
