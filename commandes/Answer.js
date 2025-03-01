@@ -11,7 +11,7 @@ zokou({nomCom:"bot",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOption
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("yes timnasa tmd I'm listening to you today.")}
+    {return repondre("yes LETHABO V1 I'm listening to you today.")}
     //var quest = arg.join(' ');
   try{
     
@@ -73,12 +73,12 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
     }
   });
   
-  zokou({ nomCom: "timnasa", reaction: "📡", categorie: "IA" }, async (dest, zk, commandeOptions) => {
+  zokou({ nomCom: "lethabo", reaction: "📡", categorie: "IA" }, async (dest, zk, commandeOptions) => {
     const { repondre, arg, ms } = commandeOptions;
   
     try {
       if (!arg || arg.length === 0) {
-        return repondre(`Please support my channel 👉https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31 and asked your question.`);
+        return repondre(`Please support my channel 👉https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r and asked your question.`);
       }
   
       // Regrouper les arguments en une seule chaîne séparée par "-"
