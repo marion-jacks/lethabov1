@@ -1,9 +1,9 @@
 {
-  "name":"❂𝗧𝗜𝗠𝗡𝗔𝗦𝗔-𝗧𝗠𝗗❂",
-  "description":"Best whatsapp bot created by 𝚃𝙸𝙼𝙽𝙰𝚂𝙰-𝚃𝙴𝙲𝙷",
+  "name":"❂LETHABO V1❂",
+  "description":"Best whatsapp bot created by JACKS-𝚃𝙴𝙲𝙷",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
-  "repository":"https://github.com/Next5x/TIMNASA_TMD1",
+  "logo":"https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r",
+  "repository":"https://github.com/marion-jacks/lethabov1",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -77,14 +77,14 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"TIMNASA-TMD",
+    "value":"LETHABO V1",
     "required":false
 
     },
        "BOT_MENU_LINKS" : 
    {
     "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-    "value":"https://i.ibb.co/1fXhfhB2/temp-image.jpg",
+    "value":"https://files.catbox.moe/kda960.jpg",
     "required":false
        
      },
@@ -97,7 +97,7 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "value":"HRKU-4e30b0fa-c892-471f-833b-dbdb416de2d3", 
+     "value":"HRKU-4.........", 
      "required" :false
     },
   "HEROKU_APP_NAME": {
@@ -117,14 +117,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "TIMNASA-TMD"
+    "value": "LETHABO V1"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255784766591"
+    "value": "254796087764"
   },
     "WARN_COUNT":
   {
