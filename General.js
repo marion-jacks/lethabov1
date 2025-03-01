@@ -55,13 +55,13 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Anyway", numero: "255678892560" },
-      { nom: "᚛Ibrahim᚜", numero: "254710772666" },
-      { nom: "Baraka", numero: "255762190568" },
+      { nom: "JAMES", numero: "254754944672" },
+      { nom: "᚛CEEJAY᚜", numero: "254796087764" },
+      { nom: "LETHABO", numero: "254704769281" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO TIMNASA-TMD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO LETHABO MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
