@@ -15,7 +15,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐓𝐇𝐈𝐒+𝐈𝐒+𝐖𝐀𝐓𝐒𝐀𝐏𝐏-𝐁𝐎𝐓+𝐌𝐀𝐃𝐄+𝐁𝐘+𝐋𝐄𝐓𝐇𝐀𝐁𝐎" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐖𝐀𝐓𝐒𝐀𝐏𝐏-𝐁𝐎𝐓+𝐌𝐀𝐃𝐄+𝐁𝐘+𝐋𝐄𝐓𝐇𝐀𝐁𝐎" alt="Typing SVG" /></a>
 
 
 
